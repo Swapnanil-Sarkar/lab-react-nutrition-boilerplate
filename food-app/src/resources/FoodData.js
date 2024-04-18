@@ -28,5 +28,4 @@ export default [{
   name:"burger",
   cal:295,
 },
-
 ]
